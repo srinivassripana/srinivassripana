@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Crypto-Chat**
 
-- 🌱 I’m currently learning **DSA ,Kotlin , flutter**
+- 🌱 I’m currently learning **DSA ,FullStack**
 
-- 💬 Ask me about **Java , Android**
+- 💬 Ask me about **Java , DSA**
 
 - 📫 How to reach me **saisrinivassripanasrkr@gmail.com**
 
